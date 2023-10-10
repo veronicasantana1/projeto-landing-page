@@ -1,3 +1,3 @@
 # projeto-landing-page
 projeto do módulo básico do curso de tecnologia da escola dnc.
-Link do site: https://desafiomodulobasico.netlify.app.
+Link do site: https://https://desafiolandingpage1.netlify.app/
